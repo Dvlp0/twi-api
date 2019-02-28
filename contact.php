@@ -92,35 +92,41 @@
 
   <section class="jumbotron text-center">
     <div class="container">
-      <h1 class="jumbotron-heading">Media</h1>
+      <h1 class="jumbotron-heading">Contact</h1>
     </div>
   </section>
   <main role="main" class="container">
   <div class="row">
     <div class="col-md-8 blog-main">
       <h3 class="pb-4 mb-4 font-italic border-bottom">
-      POST with Twitter API
+      TEAM(CSMJU) TWITTER-API
       </h3>
       <div class="blog-post">
-        <p class="blog-post-meta">January 10, 2019 by <a href="#">Eakkaphop</a></p>
-        <p>เป็นเรื่องที่ต่อในการ login with twitter จะเป็นการที่เราได้ session ที่ล๊อค</p>
-        <p>โค้ด<a href="https://drive.google.com/file/d/1lVCCdfHvjZdgxV4Q9_VA97CxQvTO7cSF/view?usp=sharing">download</a><p>
+        <p class="blog-post-meta"></p>
+        <img class="halign-center" src="img/bas.jpg" style="width:250px;height:250px;">
+        <br>
+        <h5>Responsible : Center page & (co-op)RUOK </h5>
+        <h5>Name : Eakkaphop pengtham <br>Student Number : 5904101394</h5>
+        <a href="https://www.facebook.com/talkstoryalbum">Facebook</a>
         <hr>
-        <h3 class="blog-post-title">Token key ?</h3>
-        <p>Token คือสิ่งที่ใช้แทน username และ password แต่การที่จะได้ Token มา ก็ต้องเอา username/password ไปแลกมา</p>
+        <h3 class="blog-post-title"></h3>
+        <img class="halign-center" src="img/eart.jpg" style="width:250px;height:250px;">
+        <br>
+        <h5>Responsible : (co-op)ระบบชมรมคอมพิวเตอร์ & (co-op)ระบบการจัดการสารสนเทศค่ายยุวชนคอมพิวเตอร์ </h5>
+        <h5>Name : Saksit Srikaew <br>Student Number : 5904101368</h5>
+        <a href="https://www.facebook.com/saksit.srikeaw">Facebook</a>
         <hr>
-        <h2 class="blog-post-title">การขอ Token key</h2 >
-        <img class="halign-center" src="img/2.PNG" style="width:700px;height:250px;">
-        <p>เริ่มจากไปขอรับ key ต่างๆ จาก twitter กันก่อนนะครับ โดย key ต่างๆ สามารถขอรับได้จากที่นี่เลยนะครับ <a href="https://apps.twitter.com/">https://apps.twitter.com/</a> จากนั้นกดที่ Create New App</p>
-        <br><p>-ให้เรากด Create New App เข้าไปจะเจอหน้าจอให้กรอกข้อมูลต่างๆ</p>
-        <img class="halign-center" src="img/3.png" style="width:700px;height:250px;">
-        <br><p>ตามกดการขอ Token เพียงเท่านี้เราก็มี token ไว้สำหรับการใช้ Api ได้แล้ว</p>
+        <h3 class="blog-post-title"></h3>
+        <img class="halign-center" src="img/art.jpg" style="width:250px;height:250px;">
+        <br>
+        <h5>Responsible : (co-op)Smartgate1 & (co-op)DTracking System</h5>
+        <h5>Name : Krittichai Prathum <br>Student Number : 5904101310</h5>
+        <a href="https://www.facebook.com/THartza">Facebook</a>
         <hr>
         <!-- <pre><code>Example code block</code></pre> -->
       </div><!-- /.blog-post -->
       <nav class="blog-pagination">
-        <a class="btn btn-outline-secondary" href="intro.php">back</a>
-        <a class="btn btn-outline-primary" href="allapi.php">Next</a>
+        <a class="btn btn-outline-secondary" href="src.php">back</a>
       </nav>
 
     </div><!-- /.blog-main -->
@@ -151,7 +157,7 @@
       <div class="p-4">
         <h4 class="font-italic">Elsewhere</h4>
         <ol class="list-unstyled">
-        <li><a href="https://github.com/Dvlp0/Twitter_APIMJU">GitHub</a></li>
+        <li><a href="https://github.com/Dvlp0/twi-api">GitHub</a></li>
           <li><a href="https://twitter.com/DevAPI6">Twitter</a></li>
           <li><a href="https://www.facebook.com/saksit.srikeaw">Facebook</a></li>
         </ol>

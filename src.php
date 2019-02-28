@@ -99,22 +99,11 @@
   <div class="row">
     <div class="col-md-8 blog-main">
       <h3 class="pb-4 mb-4 font-italic border-bottom">
-      Soure code ต่างๆที่จำเป็นต่อการใช้งาน
+      GitHub
       </h3>
       <div class="blog-post">
         <p class="blog-post-meta">January 30, 2019 by <a href="#">Eakkaphop</a></p>
-        <p></p>
-        <p>โค้ด<a href="https://drive.google.com/file/d/1lVCCdfHvjZdgxV4Q9_VA97CxQvTO7cSF/view?usp=sharing">download</a><p>
-        <hr>
-        <h3 class="blog-post-title">Token key ?</h3>
-        <p>Token คือสิ่งที่ใช้แทน username และ password แต่การที่จะได้ Token มา ก็ต้องเอา username/password ไปแลกมา</p>
-        <hr>
-        <h2 class="blog-post-title">การขอ Token key</h2 >
-        <img class="halign-center" src="img/2.PNG" style="width:700px;height:250px;">
-        <p>เริ่มจากไปขอรับ key ต่างๆ จาก twitter กันก่อนนะครับ โดย key ต่างๆ สามารถขอรับได้จากที่นี่เลยนะครับ <a href="https://apps.twitter.com/">https://apps.twitter.com/</a> จากนั้นกดที่ Create New App</p>
-        <br><p>-ให้เรากด Create New App เข้าไปจะเจอหน้าจอให้กรอกข้อมูลต่างๆ</p>
-        <img class="halign-center" src="img/3.png" style="width:700px;height:250px;">
-        <br><p>ตามกดการขอ Token เพียงเท่านี้เราก็มี token ไว้สำหรับการใช้ Api ได้แล้ว</p>
+        <p><a href="https://github.com/Dvlp0/twi-api">https://github.com/Dvlp0/twi-api</a></p>
         <hr>
         <!-- <pre><code>Example code block</code></pre> -->
       </div><!-- /.blog-post -->
@@ -151,7 +140,7 @@
       <div class="p-4">
         <h4 class="font-italic">Elsewhere</h4>
         <ol class="list-unstyled">
-        <li><a href="https://github.com/Dvlp0/Twitter_APIMJU">GitHub</a></li>
+        <li><a href="https://github.com/Dvlp0/twi-api">GitHub</a></li>
           <li><a href="https://twitter.com/DevAPI6">Twitter</a></li>
           <li><a href="https://www.facebook.com/saksit.srikeaw">Facebook</a></li>
         </ol>

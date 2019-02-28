@@ -151,7 +151,7 @@
       <div class="p-4">
         <h4 class="font-italic">Elsewhere</h4>
         <ol class="list-unstyled">
-        <li><a href="https://github.com/Dvlp0/Twitter_APIMJU">GitHub</a></li>
+        <li><a href="https://github.com/Dvlp0/twi-api">GitHub</a></li>
           <li><a href="https://twitter.com/DevAPI6">Twitter</a></li>
           <li><a href="https://www.facebook.com/saksit.srikeaw">Facebook</a></li>
         </ol>

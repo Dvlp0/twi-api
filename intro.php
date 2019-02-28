@@ -72,8 +72,7 @@
   </div>
   <div class="nav-scroller py-1 mb-2">
     <nav class="nav d-flex justify-content-between">
-    <a class="p-2 text-muted" href="intro.php">introduction</a>
-    <a class="p-2 text-muted" href="intro.php">introduction</a>
+      <a class="p-2 text-muted" href="intro.php">introduction</a>
       <a class="p-2 text-muted" href="getstart.php">Get start</a>
       <a class="p-2 text-muted" href="allapi.php">ALL API</a>
       <a class="p-2 text-muted" href="login.php">Login</a>
@@ -146,7 +145,7 @@
       <div class="p-4">
         <h4 class="font-italic">Elsewhere</h4>
         <ol class="list-unstyled">
-        <li><a href="https://github.com/Dvlp0/Twitter_APIMJU">GitHub</a></li>
+        <li><a href="https://github.com/Dvlp0/twi-api">GitHub</a></li>
           <li><a href="https://twitter.com/DevAPI6">Twitter</a></li>
           <li><a href="https://www.facebook.com/saksit.srikeaw">Facebook</a></li>
         </ol>
